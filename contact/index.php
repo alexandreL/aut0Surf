@@ -1,6 +1,4 @@
 <?php session_start(); ?>
-<?php include('../script/securitprofilepage.php'); ?>
-
 <!DOCTYPE html>
 <html lang="fr">
 
@@ -40,7 +38,7 @@
             <div class="span9 content" id="content-area">
 
                 <div class="view view-pages" id="view-page">
-                    <h1 class="view-title">Boutique</h1>
+                    <h1 class="view-title">Contact</h1>
 
                     <div id="rows" class="clearfix">
                         <div class="row-container page_1">
