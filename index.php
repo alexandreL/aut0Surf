@@ -15,6 +15,7 @@
 
 <link href="medias/static/themes/bootstrap/css/minify.css" rel="stylesheet">
 <link href="themes/combined.css" rel="stylesheet">
+<link rel="icon" href="medias/img/favicon.ico">
 <script src="medias/static/themes/bootstrap/js/minify.js"></script>
 <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
 
