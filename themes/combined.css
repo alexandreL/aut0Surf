@@ -15,6 +15,7 @@
      h1
 {
        font-size:2.5em;
+       color: #ffe189;
      
 }
      h1 small
@@ -4707,7 +4708,7 @@
        text-decoration:none;
        font-weight:normal;
       font-variant:normal;
-      color:#ffffff
+      color:#ffe189;
 }
      .site-subtitle
 {
@@ -4919,7 +4920,7 @@
 {
        margin-top:0;
        font-family:Geneva, Arial, Helvetica, sans-serif;
-      color:#ffffff;
+      color:#ffe189;
       font-weight:bold
 }
      .view-title a, .view-title a:visited
@@ -4927,14 +4928,14 @@
        font-weight:normal;
       font-style:normal;
       text-decoration:underline;
-      color:#ffffff
+      color:#ffe189
 }
      .view-title a:hover
 {
        font-weight:normal;
       font-style:normal;
       text-decoration:none;
-      color:#ffffff
+      color:#ffe189
 }
      .content h2, .content h3, .content h4, .content h6
 {
@@ -4954,7 +4955,7 @@
        font-weight:normal;
       font-style:normal;
       text-decoration:none;
-      color:#ffffff
+      color:#ffe189
 }
      .categories
 {
@@ -4995,7 +4996,7 @@
 }
      .content .items-container .item:last-child
 {
-       border:none;
+    border: 1px solid #ffe189;
      
 }
      .content .items-container .item:nth-child(even), .content .nav-list > :nth-child(even) 
@@ -5425,7 +5426,6 @@
 {
       margin-right:10px;
       margin-left:10px;
-     
 }
       .row-container.column-separated .column:nth-child(n+2) .column-content:before
 {
@@ -5439,7 +5439,7 @@
 }
      .sidebar,   .content
 {
-      border:none;
+    border: 1px solid #ffe189;
        
 }
      #main-area > .row-fluid > [class*="span"]
