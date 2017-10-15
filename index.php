@@ -60,7 +60,7 @@
 
 												<p>&nbsp;</p>
 
-												<p><em>Un autosurf est un système d'échange de visites permettant de découvrir différentes types de sites : blog, vidéo, chaîne musicale, portfolio, ... et qui peut donc permettre de gagner potentiellement des visites.</em></p>
+												<p><em>Un autosurf est un système d'échange de visites permettant de découvrir différents types de sites : blog, vidéo, chaîne musicale, portfolio, ... et qui peut donc permettre de gagner potentiellement des visites.</em></p>
 												<p>&nbsp;</p>
 												<p>&nbsp;</p>
 
