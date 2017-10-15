@@ -17,7 +17,7 @@
 							<a href=<?php include('relatif_dir.php'); echo 'pages/surfeur.php"';?> >Surfer sur le web</a>
 						</li>
 						<li>
-							<a href=<?php include('relatif_dir.php'); echo 'pages/param.php"';?>>Parametre de surf</a>
+							<a href=<?php include('relatif_dir.php'); echo 'pages/param.php"';?>>Paramètres de surf</a>
 						</li>
 					</ul>
 
@@ -29,7 +29,7 @@
 			<p class="widget-title">
 
 
-				Publicite
+				Publicité
 
 
 			</p>

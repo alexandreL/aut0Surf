@@ -52,7 +52,7 @@ if (isset($_POST['modsurfeur']))
 			modtmp();
 	}
 	else
-		echo '<script>alert("Le mot de passe actuel est obligatoir pour valider les modifications.");</script>';
+		echo '<script>alert("Le mot de passe actuel est obligatoire pour valider les modifications.");</script>';
 		
 }
 ?>
@@ -75,7 +75,7 @@ if (isset($_SESSION['timewait']))
         </div>
     </div>
     <div class="control-group required">
-        <label for="co_field_mdp" class="control-label">entre votre mot de passe actuel pour valider vos modifications</label>
+        <label for="co_field_mdp" class="control-label">entrez votre mot de passe actuel pour valider vos modifications</label>
         <div class="controls">
             <input type="password" name="oldpwd" id="co_field_mdp" class="input-block-level" value="" />
         </div>

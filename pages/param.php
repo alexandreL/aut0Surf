@@ -49,7 +49,7 @@
                                     <div class="column" style="width:100%">
                                         <div class="column-content">
                                             <div class="clearfix">
-                                                <h3>Parametre de l'autosurf</h3>
+                                                <h3>Paramètres de l'autosurf</h3>
                                                 <?php include('modsurfeur.php'); ?>
                                             </div>
                                         </div>
